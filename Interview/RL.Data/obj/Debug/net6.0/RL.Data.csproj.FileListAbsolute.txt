@@ -1,0 +1,16 @@
+C:\Assignment\se-assignment-master\Interview\RL.Data\bin\Debug\net6.0\ProcedureSeedData.csv
+C:\Assignment\se-assignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.deps.json
+C:\Assignment\se-assignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.runtimeconfig.json
+C:\Assignment\se-assignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.dll
+C:\Assignment\se-assignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.pdb
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.AssemblyReference.cache
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfoInputs.cache
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfo.cs
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.CoreCompileInputs.cache
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.dll
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\refint\RL.Data.dll
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.pdb
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.genruntimeconfig.cache
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\ref\RL.Data.dll
+C:\Assignment\se-assignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.sourcelink.json
